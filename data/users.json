@@ -1,0 +1,42 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "firstName": "Lakshit",
+    "lastName": "Yadav",
+    "dateOfBirth": "25-01-1999",
+    "role": "admin",
+    "profileImage": "https://w7.pngwing.com/pngs/893/926/png-transparent-silhouette-user-icon-profile-silhouette-silhouette-avatar-profile-silhouette-thumbnail.png",
+    "id": 1
+  },
+   {
+    "username": "king",
+    "password": "password1",
+    "firstName": "King",
+    "lastName": "Arthur",
+    "dateOfBirth": "25-01-1999",
+    "role": "user",
+    "profileImage": "https://w7.pngwing.com/pngs/893/926/png-transparent-silhouette-user-icon-profile-silhouette-silhouette-avatar-profile-silhouette-thumbnail.png",
+    "id": 1
+  },
+   {
+    "username": "rob",
+    "password": "password3",
+    "firstName": "Rob",
+    "lastName": "Mayor",
+    "dateOfBirth": "25-01-1999",
+    "role": "user",
+    "profileImage": "https://w7.pngwing.com/pngs/893/926/png-transparent-silhouette-user-icon-profile-silhouette-silhouette-avatar-profile-silhouette-thumbnail.png",
+    "id": 2
+  },
+  {
+    "username": "teresa",
+    "password": "parliament",
+    "firstName": "Teresa",
+    "lastName": "May",
+    "dateOfBirth": "25-01-1999",
+    "role": "user",
+    "profileImage": "https://w7.pngwing.com/pngs/893/926/png-transparent-silhouette-user-icon-profile-silhouette-silhouette-avatar-profile-silhouette-thumbnail.png",
+    "id": 3
+  }
+]
